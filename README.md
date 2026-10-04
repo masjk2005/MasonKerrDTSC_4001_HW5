@@ -1,0 +1,2 @@
+Original animation code: nfl-tracks 1.3.2 by Mohammed Shammeer, https://pypi.org/project/nfl-tracks/ and https://github.com/shammeer-s/nfl-tracks
+Notes: In Part 1, games2's csv was re-saved by another program, which is why row quoting is different || For Part 2, the numbers addition just recreates the original and adds a few lines (jersey number was included in the data, and was simple/easy to find and match to each player)
