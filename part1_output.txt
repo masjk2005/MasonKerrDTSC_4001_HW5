@@ -1,0 +1,15 @@
+User: mkerr17 | Host: gal-i9.charlotte.edu | Run: Sun Oct  4 09:03:04 2026
+/projects/class/spoa4001_u01/SportsTrackingTransformer/data/BigDataBowl_2024/games.csv | 8330 bytes | modified Fri Sep 29 16:41:58 2023 | md5 4b6b1a8caa58a0f3775cd2c6e9305d16
+/projects/class/spoa4001_u01/SportsTrackingTransformer/data/BigDataBowl_2024/games2.csv | 7128 bytes | modified Wed Sep 30 09:26:29 2026 | md5 c77a2ef3c450516bc242c6209447fecc
+
+Games whose scores differ: [2022101700]
+
+Original (games.csv):
+             week homeTeamAbbr visitorTeamAbbr  homeFinalScore  visitorFinalScore
+gameId                                                                          
+2022101700     6          LAC             DEN              19                 16
+
+Modified (games2.csv):
+             week homeTeamAbbr visitorTeamAbbr  homeFinalScore  visitorFinalScore
+gameId                                                                          
+2022101700     6          LAC             DEN              21                 17
